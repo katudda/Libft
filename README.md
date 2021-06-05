@@ -33,7 +33,7 @@ next : The next element’s address or NULL if it’s the last element.
 ---
 # How to use
 
-This program creates a libary libft.a:
+This program creates a library libft.a:
 ```bash
 git clone https://github.com/katudda/Libft.git
 cd libft/src
