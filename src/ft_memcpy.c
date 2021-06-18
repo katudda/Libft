@@ -6,13 +6,13 @@
 /*   By: kchristi <kchristi@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/05/15 15:51:31 by kchristi          #+#    #+#             */
-/*   Updated: 2021/06/04 23:47:17 by kchristi         ###   ########.fr       */
+/*   Updated: 2021/06/18 17:09:57 by kchristi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
 
-void	*ft_memcpy(void *restrict dst, const void *restrict src, size_t n)
+void	*ft_memcpy(void *dst, const void *src, size_t n)
 {
 	char	*dsrc;
 	char	*ddst;
