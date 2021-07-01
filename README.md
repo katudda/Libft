@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://github.com/katudda/Libft/libftm.png">
+<img src="libftm.png">
 </p>
 
 # Libft
