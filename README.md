@@ -1,3 +1,7 @@
+<p align='center'>
+<img src="https://github.com/katudda/Libft/libftm.png">
+</p>
+
 # Libft
 This is my first project as a cadet at <a href ="https://www.42sp.org.br/">42 - São Paulo</a> with my own C library implementations of functions, manipulating memory, string and linked lists.
 
@@ -46,3 +50,4 @@ You can find descriptions of the use of all functions in the follow READMEs:
 
 ## Contributing
 Everyone can contribute to libft. Just send me a email, I will add you to contributors.
+
